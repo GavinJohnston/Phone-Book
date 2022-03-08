@@ -1432,11 +1432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gavin/Projects/Phone-Book/PhoneBook.csproj",
+      "projectUniqueName": "/Users/gavin/Projects/PhoneBook/PhoneBook.csproj",
       "projectName": "PhoneBook",
-      "projectPath": "/Users/gavin/Projects/Phone-Book/PhoneBook.csproj",
+      "projectPath": "/Users/gavin/Projects/PhoneBook/PhoneBook.csproj",
       "packagesPath": "/Users/gavin/.nuget/packages/",
-      "outputPath": "/Users/gavin/Projects/Phone-Book/obj/",
+      "outputPath": "/Users/gavin/Projects/PhoneBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gavin/.nuget/NuGet/NuGet.Config"

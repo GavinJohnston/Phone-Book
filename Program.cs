@@ -10,8 +10,6 @@ namespace PhoneBook
 
             while(CloseApp == false) {
 
-                Controller.GenerateDB();
-
                 Console.Clear();
                 Console.WriteLine("PHONE BOOK");
                 Console.WriteLine("==========\n\n");

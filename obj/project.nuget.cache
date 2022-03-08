@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EFxHp12YMv16U8KKR7xcr4irfG+lilrcIKpyPsNRemXlBFXqBm0hmQ3dt7Jm5vn4PqrGhZZ94XiAeoyBZvY2GA==",
+  "dgSpecHash": "5jxKm61EfZMV5SxZSo0Z8zUjQFDHFdooTWXugeh0auQhb4WC1cKj2xzRUK48TrpL1+rYnZgC3WZQKmhtCG8K3Q==",
   "success": true,
-  "projectFilePath": "/Users/gavin/Projects/Phone-Book/PhoneBook.csproj",
+  "projectFilePath": "/Users/gavin/Projects/PhoneBook/PhoneBook.csproj",
   "expectedPackageFiles": [
     "/Users/gavin/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
     "/Users/gavin/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",

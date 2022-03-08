@@ -5,12 +5,19 @@ namespace PhoneBook
 {
     public class Controller
     {
-        static string connectionString = @"Server=localhost,1433; User=sa; Password=someThingComplicated1234";
-        public static void GenerateDB() {
-          
-            using(var connection = new SqlConnection(connectionString)) {
+        public static void SendData(string name, int number) {
+        
+            PhoneBook usr = new PhoneBook() { Name = name, Number = number };
+            
+            using (var ctx = new EFContext("Server=localhost,1433; Database=PhoneBook; User=sa;Password=someThingComplicated1234"))
+            {
+            ctx.Book.Add(usr);
+            ctx.SaveChanges();
+            }          
+        }
 
-            }
+        public static void GetData() {
+
         }
     }
 }
