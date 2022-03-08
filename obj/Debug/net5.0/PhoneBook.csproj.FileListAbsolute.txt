@@ -88,3 +88,4 @@
 /Users/gavin/Projects/Phone-Book/obj/Debug/net5.0/ref/PhoneBook.dll
 /Users/gavin/Projects/Phone-Book/obj/Debug/net5.0/PhoneBook.pdb
 /Users/gavin/Projects/Phone-Book/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
+/Users/gavin/Projects/PhoneBook/bin/Debug/net5.0/ConsoleTableExt.dll

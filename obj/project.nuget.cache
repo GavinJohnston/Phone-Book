@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5jxKm61EfZMV5SxZSo0Z8zUjQFDHFdooTWXugeh0auQhb4WC1cKj2xzRUK48TrpL1+rYnZgC3WZQKmhtCG8K3Q==",
+  "dgSpecHash": "XCkG1CzYp9XNPA3pxMYNYh883QJBiIpimUFTXdxCiH1mGkmZ/YGf7f9Fq4WQGeoMDBo2rUy1UayDCqgnBecvGg==",
   "success": true,
   "projectFilePath": "/Users/gavin/Projects/PhoneBook/PhoneBook.csproj",
   "expectedPackageFiles": [
     "/Users/gavin/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
+    "/Users/gavin/.nuget/packages/consoletableext/3.1.9/consoletableext.3.1.9.nupkg.sha512",
     "/Users/gavin/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/Users/gavin/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
     "/Users/gavin/.nuget/packages/k4os.compression.lz4/1.2.6/k4os.compression.lz4.1.2.6.nupkg.sha512",

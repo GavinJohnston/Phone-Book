@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "PhoneBook/1.0.0": {
         "dependencies": {
+          "ConsoleTableExt": "3.1.9",
           "EntityFramework": "6.4.4",
           "MySql.Data": "8.0.28",
           "System.Data.SqlClient": "4.8.3"
@@ -21,6 +22,14 @@
           "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
             "assemblyVersion": "1.8.5.0",
             "fileVersion": "1.8.19031.1"
+          }
+        }
+      },
+      "ConsoleTableExt/3.1.9": {
+        "runtime": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {
+            "assemblyVersion": "3.1.9.0",
+            "fileVersion": "3.1.9.0"
           }
         }
       },
@@ -326,6 +335,13 @@
       "sha512": "sha512-6uxsQw2UXrt82VQAWC2td3oBSJjUZ3P4u4DliagB8wf67KsU53V8sW9xwdF+IwZOOZFR0TCZuv/YKZ2BlrfAag==",
       "path": "bouncycastle.netcore/1.8.5",
       "hashPath": "bouncycastle.netcore.1.8.5.nupkg.sha512"
+    },
+    "ConsoleTableExt/3.1.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DbzU4aB2V9vdfoVBaKGkGwghIRhW8ZGOYN8rSYMthk3U7gAkmuQRc9vqLjS91olHePKwbyUPNxtqy6uALkYmng==",
+      "path": "consoletableext/3.1.9",
+      "hashPath": "consoletableext.3.1.9.nupkg.sha512"
     },
     "EntityFramework/6.4.4": {
       "type": "package",

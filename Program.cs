@@ -25,7 +25,7 @@ namespace PhoneBook
 
                 Result = int.TryParse(UserInput, out MenuIndex);
 
-                while(Result == false || MenuIndex > 3 || MenuIndex < 0) {
+                while(Result == false || MenuIndex > 4 || MenuIndex < 0) {
 
                     Console.WriteLine("ERROR: Please select a number between 1 & 4, or press 0 to close the app.\n");
 
